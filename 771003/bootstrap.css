@@ -1,0 +1,19 @@
+	.container,.container-fluid{
+		padding-top: 10px;
+		padding-bottom: 10px;
+		border :5px solid orangered;
+		margin-bottom: 10px;
+	}
+	.col-lg-4{
+		background-color: lavender;
+	}
+		.col-lg-3{
+		background-color: lavenderblush;
+	}
+		.col-lg-5{
+		background-color: lightgray;
+	}
+	h4{
+font-family:"lucas";
+color: "green";
+	}
